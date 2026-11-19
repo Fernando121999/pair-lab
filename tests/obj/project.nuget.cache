@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LFzIpPzbpxA=",
+  "dgSpecHash": "jREm/ZL1jNU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\tests\\tests.csproj",
+  "projectFilePath": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\tests\\PairLab.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",

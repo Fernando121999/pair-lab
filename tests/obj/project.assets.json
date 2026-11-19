@@ -616,14 +616,14 @@
           "build/netcoreapp3.1/NUnit3TestAdapter.targets": {}
         }
       },
-      "src/1.0.0": {
+      "PairLab/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "compile": {
-          "bin/placeholder/src.dll": {}
+          "bin/placeholder/PairLab.dll": {}
         },
         "runtime": {
-          "bin/placeholder/src.dll": {}
+          "bin/placeholder/PairLab.dll": {}
         }
       }
     }
@@ -1515,10 +1515,10 @@
         "nunit_256.png"
       ]
     },
-    "src/1.0.0": {
+    "PairLab/1.0.0": {
       "type": "project",
-      "path": "../src/src.csproj",
-      "msbuildProject": "../src/src.csproj"
+      "path": "../src/PairLab.csproj",
+      "msbuildProject": "../src/PairLab.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1527,8 +1527,8 @@
       "NUnit >= 4.3.2",
       "NUnit.Analyzers >= 4.7.0",
       "NUnit3TestAdapter >= 5.0.0",
-      "coverlet.collector >= 6.0.4",
-      "src >= 1.0.0"
+      "PairLab >= 1.0.0",
+      "coverlet.collector >= 6.0.4"
     ]
   },
   "packageFolders": {
@@ -1538,9 +1538,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\tests\\tests.csproj",
-      "projectName": "tests",
-      "projectPath": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\tests\\tests.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\tests\\PairLab.Tests.csproj",
+      "projectName": "PairLab.Tests",
+      "projectPath": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\tests\\PairLab.Tests.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\tests\\obj\\",
       "projectStyle": "PackageReference",
@@ -1565,8 +1565,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\src\\src.csproj": {
-              "projectPath": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\src\\src.csproj"
+            "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\src\\PairLab.csproj": {
+              "projectPath": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\src\\PairLab.csproj"
             }
           }
         }
