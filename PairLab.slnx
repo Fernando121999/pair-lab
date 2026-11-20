@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PairLab.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PairLab.Tests.csproj" />
+  </Folder>
 </Solution>

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\src\\src.csproj",
-      "projectName": "src",
-      "projectPath": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\src\\src.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\src\\PairLab.csproj",
+      "projectName": "PairLab",
+      "projectPath": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\src\\PairLab.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ferna\\source\\repos\\cs350-hw4\\pair-lab\\src\\obj\\",
       "projectStyle": "PackageReference",
